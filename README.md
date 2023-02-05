@@ -1,5 +1,4 @@
-# TheMeaningOfHuman
-人类的意义
+# The Meaning Of Human 人类的意义
 
 人类发展的未来会是什么样子？
 
